@@ -1,4 +1,4 @@
 # 113tkuds_2
 
 ## 0805
-新增 githubdesktop截圖
+新增githubdesktop截圖
